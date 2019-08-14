@@ -1,15 +1,14 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
+author: "Derivas"
+tagline: ""
+description: "Existem outras formas de educar e engajar. Por meio de analíse de políticas e de integração de práticas de Game Design, desejamos eliminar a oposição entre intérprete e ouvinte, ou no contexto dos jogos, a oposição entre desenvolvedor e jogador. Desenvolvemos jogos e simulações voltados à organizações e ao grande público com poder de entreter e oferecer insights."
+keywords: "Jogos, Games, Jogos políticos, simulações, interativo"
+email: "bolitto.walter@gmail.com"
 twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: "http://derivas.cc/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
