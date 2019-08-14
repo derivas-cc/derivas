@@ -9,7 +9,7 @@ github: "https://github.com/bolitto"
 mastodon: "https://mastodon.social/@derivas"
 
 # Site config
-baseurl: "http://derivas.cc/"
+baseurl: "http://derivas.cc"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
