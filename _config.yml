@@ -4,8 +4,9 @@ tagline: ""
 description: "Existem outras formas de educar e engajar. Por meio de analíse de políticas e de integração de práticas de Game Design, é possível eliminar a oposição entre intérprete e ouvinte, ou no contexto dos jogos, a oposição entre desenvolvedor e jogador. Derivas quer desenvolver jogos e simulações voltados à organizações e ao grande público com poder de entreter e oferecer insights."
 keywords: "Jogos, Games, Jogos políticos, simulações, interativo"
 email: "bolitto.walter@gmail.com"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+twitter: "https://twitter.com/derivas_"
+github: "https://github.com/bolitto"
+mastodon: "https://mastodon.social/@derivas"
 
 # Site config
 baseurl: "http://derivas.cc/"
